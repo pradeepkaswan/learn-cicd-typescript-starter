@@ -19,6 +19,4 @@ npm install
 npm run dev
 ```
 
-_This starts the server in non-database mode._ It will serve a simple webpage at `http://localhost:8080`.
-
 Pradeep's version of Boot.dev's Notely app.
